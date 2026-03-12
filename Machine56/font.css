@@ -1,0 +1,14 @@
+/* Bold */
+@font-face {
+    font-family: 'Machine56 DB02';
+    src: url('./Machine56_DB02_Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* Light */
+@font-face {
+    font-family: 'Machine56 DB01';
+    src: url('./Machine56_DB02_Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
